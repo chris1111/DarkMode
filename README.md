@@ -8,6 +8,6 @@
 ![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/sans_t92.png)
 
 
-### [Download ➤ Dark-Mode.dmg.zip]()
+### [Download ➤ Dark-Mode.dmg.zip](https://github.com/chris1111/DarkMode/releases/tag/V1)
 
 
